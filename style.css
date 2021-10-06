@@ -1,0 +1,26 @@
+.ui.borderless.topmenu.menu{
+
+  background-color: #e5e4e4;
+  box-shadow: none;
+  border: none;
+  padding: 25px;
+
+}
+
+img {
+  width: 40px,
+  height: 30px
+
+}
+
+.footer-background{
+  background-color: #e5e4e4;
+  box-shadow: none;
+  border: none;
+  padding: 25px;
+
+}
+.bottom.menu{
+  backgrounf-color: white;
+  padding: 75px;
+}
